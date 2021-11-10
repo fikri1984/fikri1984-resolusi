@@ -1,9 +1,11 @@
 fikri1984-resolusi
 - Mengenal program website
-  * Mencari cara membuat website dengan mudah
-  * Mempelajari website dengan menggunakan javascript
+  * Mempelajari dasar-dasar website
+  * Merancang sebuah web
+  * Membuat website dengan bootstrap
 - Mempraktekan dengan mempelajari program website
 - Membuat forum diskusi
   * Mengomentari dari hasil pembelajaran website
 - Mempelajari langkah-langkah website
+- Belajar membuat website
 
