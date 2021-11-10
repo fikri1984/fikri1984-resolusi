@@ -7,4 +7,5 @@ fikri1984-resolusi
 - Membuat forum diskusi
 - Menambahkan perencanaan yang lebih bagus lagi
 - Mempelajari langkah-langkah website
+- Belajar membuat website
 
