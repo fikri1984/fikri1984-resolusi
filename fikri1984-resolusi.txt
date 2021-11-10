@@ -1,7 +1,9 @@
 fikri1984-resolusi
 - Mengenal program website
+  * Mencari cara membuat website dengan mudah
+  * Mempelajari website dengan menggunakan javascript
 - Mempraktekan dengan mempelajari program website
 - Membuat forum diskusi
-- Menambahkan perencanaan yang lebih bagus lagi
+  * Mengomentari dari hasil pembelajaran website
 - Mempelajari langkah-langkah website
 
