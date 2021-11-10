@@ -5,7 +5,7 @@ fikri1984-resolusi
   * Membuat website dengan bootstrap
 - Mempraktekan dengan mempelajari program website
 - Membuat forum diskusi
-- Menambahkan perencanaan yang lebih bagus lagi
+  * Mengomentari dari hasil pembelajaran website
 - Mempelajari langkah-langkah website
 - Belajar membuat website
 
